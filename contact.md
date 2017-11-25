@@ -1,15 +1,9 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Contact
+permalink: /contact/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[Leonardo.dosSantos /at\ unige.ch](mailto:leonardo.dossantos@unige.ch)
+:envelope: 51 chemin des Maillettes, 1290 Versoix, Switzerland
+:telephone_receiver: +41 22 379 24 00
+:computer: [Leonardo.dosSantos /at\ unige.ch](mailto:leonardo.dossantos@unige.ch)
