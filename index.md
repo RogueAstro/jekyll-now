@@ -7,7 +7,7 @@ layout: page
 
 I am a PhD candidate at the Geneva Observatory, where I work with Prof. [David Ehrenreich](https://obswww.unige.ch/~ehrenrei/homepage/Welcome.html) and many other scientists. I am also a member of the [NCCR PlanetS](http://nccr-planets.ch) collaboration. 
 
-My main research topic is the detection and characterization of extra-solar planets, more specifically the dynamics and chemistry of their upper atmospheres. I am also interested in solving problems related to the observation and description of stellar atmospheres, and developing scientific software for the astronomical community. The main instruments I use in my research are high-resolution and/or space-based spectrographs, and a trusty MacBook Pro.
+My main research topic is the detection and characterization of extra-solar planets, more specifically the dynamics and chemistry of their upper atmospheres. I am also interested in solving problems related to the observation and description of stellar atmospheres and developing scientific software for the astronomical community. The main instruments I use in my research are high-resolution and/or space-based spectrographs, and a trusty MacBook Pro.
 
 ---
 
@@ -38,5 +38,7 @@ I wrote summaries of interesting astronomical articles for [Astrobites](https://
 * [Adventures in watchmaking for cool stars](https://astrobites.org/2017/07/03/adventures-in-watchmaking-for-cool-stars/)
 
 * [A neutron star in the Eye of Sauron?](https://astrobites.org/2017/03/24/a-neutron-star-in-the-eye-of-sauron/)
+
+* [Strength in numbers: a smarter way to find habitable worlds](https://astrobites.org/2017/05/23/strength-in-numbers-a-smarter-way-to-find-habitable-worlds/) (also featured on [AAS NOVA](http://aasnova.org/2017/07/18/strength-in-numbers-a-smarter-way-to-find-habitable-worlds/#comments))
 
 * [The impact of the Physics GRE in astronomy graduate school admissions](https://astrobites.org/2016/09/09/the-impact-of-the-physics-gre-in-astronomy-graduate-admissions/)
