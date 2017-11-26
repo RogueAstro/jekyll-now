@@ -39,6 +39,6 @@ I wrote summaries of interesting astronomical articles for [Astrobites](https://
 
 * [A neutron star in the Eye of Sauron?](https://astrobites.org/2017/03/24/a-neutron-star-in-the-eye-of-sauron/)
 
-* [Strength in numbers: a smarter way to find habitable worlds](https://astrobites.org/2017/05/23/strength-in-numbers-a-smarter-way-to-find-habitable-worlds/) (also featured on [AAS NOVA](http://aasnova.org/2017/07/18/strength-in-numbers-a-smarter-way-to-find-habitable-worlds/#comments))
+* [Strength in numbers: a smarter way to find habitable worlds](https://astrobites.org/2017/05/23/strength-in-numbers-a-smarter-way-to-find-habitable-worlds/) (also featured on [AAS NOVA](http://aasnova.org/2017/07/18/strength-in-numbers-a-smarter-way-to-find-habitable-worlds/))
 
 * [The impact of the Physics GRE in astronomy graduate school admissions](https://astrobites.org/2016/09/09/the-impact-of-the-physics-gre-in-astronomy-graduate-admissions/)
