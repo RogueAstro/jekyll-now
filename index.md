@@ -3,7 +3,7 @@ layout: page
 ---
 
 {: style="text-align:center"}
-![leonardo-dos-santos](https://raw.githubusercontent.com/RogueAstro/RogueAstro.github.io/master/images/profile.jpg "Leonardo A. dos Santos")
+![leonardo-dos-santos](images/profile.jpg "Leonardo A. dos Santos")
 
 I am a PhD candidate at the Geneva Observatory and member of the [NCCR PlanetS](http://nccr-planets.ch) collaboration. 
 
