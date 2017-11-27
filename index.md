@@ -5,7 +5,7 @@ layout: page
 {: style="text-align:center"}
 ![leonardo-dos-santos](images/profile.jpg "Leonardo A. dos Santos")
 
-I am a PhD candidate at the Geneva Observatory, where I work with Prof. [David Ehrenreich](https://obswww.unige.ch/~ehrenrei/homepage/Welcome.html) and many other scientists. I am also a member of the [NCCR PlanetS](http://nccr-planets.ch) collaboration. 
+I am a PhD candidate at the Geneva Observatory, where I work with Prof. [David Ehrenreich](https://obswww.unige.ch/~ehrenrei/homepage/Welcome.html) and many other scientists. I am also a member of the [NCCR PlanetS](http://nccr-planets.ch) collaboration.
 
 My main research topic is the detection and characterization of extra-solar planets, more specifically the dynamics and chemistry of their upper atmospheres. I am also interested in solving problems related to the observation and description of stellar atmospheres and developing scientific software for the astronomical community. The main instruments I use in my research are high-resolution and/or space-based spectrographs, and a trusty MacBook Pro.
 
@@ -18,6 +18,8 @@ My full list of publications can be found on [ADS](http://adsabs.harvard.edu/cgi
 * J. Meléndez, M. Bedell, J. L. Bean, et al. 2017, [Close-in, low-mass planet candidates and evidence of planet accretion in the solar twin HIP 68468](http://adsabs.harvard.edu/abs/2017A%26A...597A..34M), A&A 597.
 
 * L. A. dos Santos, J. Meléndez, J.-D. do Nascimento, et al. 2016, [The Sun as a typical rotator and evidence for a new rotational braking law for Sun-like stars](http://adsabs.harvard.edu/abs/2016A%26A...592A.156D), A&A 592.
+
+You can also look me up on <a href="https://orcid.org/0000-0002-2248-3838" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0002-2248-3838</a> and <a href="https://scholar.google.ch/citations?user=qtgZdFIAAAAJ">Google Scholar</a>.
 
 ---
 
