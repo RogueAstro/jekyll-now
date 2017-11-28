@@ -19,7 +19,7 @@ My full list of publications can be found on [ADS](http://adsabs.harvard.edu/cgi
 
 * L. A. dos Santos, J. Meléndez, J.-D. do Nascimento, et al. 2016, [The Sun as a typical rotator and evidence for a new rotational braking law for Sun-like stars](http://adsabs.harvard.edu/abs/2016A%26A...592A.156D), A&A 592.
 
-You can also look me up on <a href="https://orcid.org/0000-0002-2248-3838" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0002-2248-3838</a> and <a href="https://scholar.google.ch/citations?user=qtgZdFIAAAAJ">Google Scholar</a>.
+You can also look me up on <a href="https://orcid.org/0000-0002-2248-3838" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0002-2248-3838</a> and <a href="https://scholar.google.com/citations?user=qtgZdFIAAAAJ">Google Scholar</a>.
 
 ---
 
