@@ -27,6 +27,8 @@ I [write software](https://github.com/ladsantos) in Python and random scripts fo
 
 * [`radial`](https://github.com/ladsantos/radial): Pure Python code for working with radial velocities of stars with a  companion (checkout the tutorial notebooks [here](https://github.com/ladsantos/RV_PS2017)).
 
+* [`sunburn`](https://github.com/ladsantos/sunburn): Data analysis package of HSR far-UV spectra. **Feature requests are very welcome!** (shoot me an email or [post an issue](https://github.com/ladsantos/sunburn/issues))
+
 * [`onza`](https://github.com/ladsantos/onza): Transiting exospheres (work in progress)
 
 * [ESO unpack](https://github.com/ladsantos/ESO_unpack): Did you just download dozens of GBs of data from ESO's archive? This script can help you unpack the data.
