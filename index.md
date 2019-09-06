@@ -11,7 +11,7 @@ My main research topic is the detection and characterization of extra-solar plan
 
 ---
 
-My full list of publications can be found on [ADS](https://ui.adsabs.harvard.edu/search/q=((author%3A%22dos%20Santos%2C%20Leonardo%20A.%22)%20AND%20year%3A2016-2019)&sort=date%20desc%2C%20bibcode%20desc&p_=0). Here are some highlights:
+My full list of publications can be found on [ADS](https://ui.adsabs.harvard.edu/search/q=author%3A%22dos%20Santos%2C%20L.%20A.%22%20AND%20database%3Aastronomy&sort=date%20desc%2C%20bibcode%20desc&p_=0). Here are some highlights:
 
 * L. A. dos Santos, D. Ehrenreich, V. Bourrier, 2019b, [The Hubble PanCET program: An extensive search for metallic ions in the exosphere of GJ 436 b](https://ui.adsabs.harvard.edu/abs/2019arXiv190705906D/abstract), A&A in press.
 
