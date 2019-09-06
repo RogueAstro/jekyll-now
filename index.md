@@ -13,9 +13,9 @@ My main research topic is the detection and characterization of extra-solar plan
 
 My full list of publications can be found on [ADS](https://ui.adsabs.harvard.edu/search/q=((author%3A%22dos%20Santos%2C%20Leonardo%20A.%22)%20AND%20year%3A2016-2019)&sort=date%20desc%2C%20bibcode%20desc&p_=0). Here are some highlights:
 
-* L. A. dos Santos, D. Ehrenreich, V. Bourrier, 2019a, [The Hubble PanCET program: An extensive search for metallic ions in the exosphere of GJ 436 b](https://ui.adsabs.harvard.edu/abs/2019arXiv190705906D/abstract), A&A in press.
+* L. A. dos Santos, D. Ehrenreich, V. Bourrier, 2019b, [The Hubble PanCET program: An extensive search for metallic ions in the exosphere of GJ 436 b](https://ui.adsabs.harvard.edu/abs/2019arXiv190705906D/abstract), A&A in press.
 
-* L. A. dos Santos, V. Bourrier, D. Ehrenreich, S. Kameda, 2019b, [Observability of hidrogen-rich exospheres in Earth-like exoplanets](https://ui.adsabs.harvard.edu/abs/2019A%26A...622A..46D/abstract), A&A 622.
+* L. A. dos Santos, V. Bourrier, D. Ehrenreich, S. Kameda, 2019a, [Observability of hidrogen-rich exospheres in Earth-like exoplanets](https://ui.adsabs.harvard.edu/abs/2019A%26A...622A..46D/abstract), A&A 622.
 
 * R. B. Botelho, A. C. Milone, J. Meléndez, et al. 2019, [Thorium in solar twins: implications for habitability in rocky planets](https://ui.adsabs.harvard.edu/abs/2019MNRAS.482.1690B/abstract), MNRAS 482.
 
