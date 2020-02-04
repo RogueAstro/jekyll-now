@@ -13,15 +13,27 @@ My main research topic is the detection and characterization of extra-solar plan
 
 My full list of publications can be found on [ADS](https://ui.adsabs.harvard.edu/search/q=author%3A%22dos%20Santos%2C%20L.%20A.%22%20AND%20database%3Aastronomy&sort=date%20desc%2C%20bibcode%20desc&p_=0). Here are some highlights:
 
-* L. A. dos Santos, D. Ehrenreich, V. Bourrier, 2019b, [The Hubble PanCET program: An extensive search for metallic ions in the exosphere of GJ 436 b](https://ui.adsabs.harvard.edu/abs/2019arXiv190705906D/abstract), A&A 629.
+* L. A. dos Santos, D. Ehrenreich, V. Bourrier, et al. 2020, [The high-energy environment and atmospheric escape of the mini-Neptune K2-18 b](https://ui.adsabs.harvard.edu/abs/2020A%26A...634L...4D/abstract), A&A Letters 634.
 
-* L. A. dos Santos, V. Bourrier, D. Ehrenreich, S. Kameda, 2019a, [Observability of hidrogen-rich exospheres in Earth-like exoplanets](https://ui.adsabs.harvard.edu/abs/2019A%26A...622A..46D/abstract), A&A 622.
+* L. A. dos Santos, D. Ehrenreich, V. Bourrier, et al. 2019, [The Hubble PanCET program: An extensive search for metallic ions in the exosphere of GJ 436 b](https://ui.adsabs.harvard.edu/abs/2019A%26A...629A..47D/abstract), A&A 629.
 
-* R. B. Botelho, A. C. Milone, J. Meléndez, et al. 2019, [Thorium in solar twins: implications for habitability in rocky planets](https://ui.adsabs.harvard.edu/abs/2019MNRAS.482.1690B/abstract), MNRAS 482.
+* D. Lorenzo-Oliveira, J. Meléndez, Yana Galarza, J. et al. 2019, [Constraining the evolution of stellar rotation using solar twins](https://ui.adsabs.harvard.edu/abs/2019MNRAS.485L..68L/abstract), MNRAS 482.
 
 * L. A. dos Santos, J. Meléndez, J.-D. do Nascimento, et al. 2016, [The Sun as a typical rotator and evidence for a new rotational braking law for Sun-like stars](https://ui.adsabs.harvard.edu/abs/2016A%26A...592A.156D/abstract), A&A 592.
 
 You can also look me up on <a href="https://orcid.org/0000-0002-2248-3838" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0002-2248-3838</a> and <a href="https://scholar.google.com/citations?user=qtgZdFIAAAAJ">Google Scholar</a>.
+
+---
+
+Upcoming conferences I plan to attend:
+
+* [Stars and Planets in the Ultraviolet](https://eiseverywhere.com/ultraviolet): 4-6 May 2020, Tempe (AZ), United States
+
+* [Towards Other Earths III](http://www.iastro.pt/research/conferences/toe3/): 1-5 June 2020, Lamego, Portugal
+
+* [Cool Stars 21](https://coolstars21.github.io): 22-26 June 2020, Toulouse, France
+
+* [Exoplanets III](http://exoplanets3.mpia.de): 27-31 July 2020, Heidelberg, Germany
 
 ---
 
@@ -31,7 +43,7 @@ Occasionally I [write software](https://github.com/ladsantos) in Python and rand
 
 * [`sunburn`](https://github.com/ladsantos/sunburn): Data analysis package of HST far-UV spectra. **Feature requests are very welcome!** (shoot me an email or [post an issue](https://github.com/ladsantos/sunburn/issues))
 
-* [`onza`](https://github.com/ladsantos/onza): Transiting exospheres (work in progress)
+* [`onza`](https://github.com/ladsantos/onza): Transiting exospheres
 
 * [ESO unpack](https://github.com/ladsantos/ESO_unpack): Did you just download dozens of GBs of data from ESO's archive? This script can help you unpack the data.
 
