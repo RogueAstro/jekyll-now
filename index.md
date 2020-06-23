@@ -25,18 +25,6 @@ You can also look me up on <a href="https://orcid.org/0000-0002-2248-3838" targe
 
 ---
 
-Upcoming conferences I plan to attend:
-
-* [Stars and Planets in the Ultraviolet](https://eiseverywhere.com/ultraviolet): 4-6 May 2020, Tempe (AZ), United States
-
-* [Towards Other Earths III](http://www.iastro.pt/research/conferences/toe3/): 1-5 June 2020, Lamego, Portugal
-
-* [Cool Stars 21](https://coolstars21.github.io): 22-26 June 2020, Toulouse, France
-
-* [Exoplanets III](http://exoplanets3.mpia.de): 27-31 July 2020, Heidelberg, Germany
-
----
-
 Occasionally I [write software](https://github.com/ladsantos) in Python and random scripts for astronomical research. Here are some that I think could be useful for other people:
 
 * [`radial`](https://github.com/ladsantos/radial): Pure Python code for working with radial velocities of stars with a  companion (checkout the tutorial notebooks [here](https://github.com/ladsantos/RV_PS2017)).
