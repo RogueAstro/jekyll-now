@@ -15,7 +15,7 @@ My full list of publications can be found on [ADS](https://ui.adsabs.harvard.edu
 
 * L. A. dos Santos, D. Ehrenreich, V. Bourrier, et al. 2020, [The high-energy environment and atmospheric escape of the mini-Neptune K2-18 b](https://ui.adsabs.harvard.edu/abs/2020A%26A...634L...4D/abstract), A&A Letters 634.
 
-* L. A. dos Santos, D. Ehrenreich, V. Bourrier, et al. 2019, [The Hubble PanCET program: An extensive search for metallic ions in the exosphere of GJ 436 b](https://ui.adsabs.harvard.edu/abs/2019A%26A...629A..47D/abstract), A&A 629.
+* L. A. dos Santos, D. Ehrenreich, V. Bourrier, et al. 2020, [Search for helium in the upper atmosphere of the hot Jupiter WASP-127 b using Gemini/Phoenix](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A..29D/abstract), A&A 640.
 
 * D. Lorenzo-Oliveira, J. Meléndez, Yana Galarza, J. et al. 2019, [Constraining the evolution of stellar rotation using solar twins](https://ui.adsabs.harvard.edu/abs/2019MNRAS.485L..68L/abstract), MNRAS 482.
 
