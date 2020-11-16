@@ -1,5 +1,6 @@
 ---
 layout: page_br
+permalink: /br/
 ---
 
 {: style="text-align:center"}
