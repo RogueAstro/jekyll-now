@@ -32,7 +32,7 @@ Ocasionalmente eu [desenvolvo *software*](https://github.com/ladsantos) em Pytho
 
 * [`sunburn`](https://github.com/ladsantos/sunburn): Pacote de análise de dados espectrais em ultravioleta com o *Hubble*.
 
-* [`onza`](https://github.com/ladsantos/onza): Exosferas em espectroscopia de transmissão
+* [`onza`](https://github.com/ladsantos/onza): Exosferas em espectroscopia de transmissão.
 
 * [ESO unpack](https://github.com/ladsantos/ESO_unpack): Você acabou de baixar vários GBs de dados do *ESO archive*? Este *script* pode te ajudar a desempacotar os dados.
 
