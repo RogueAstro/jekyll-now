@@ -4,7 +4,7 @@ title: Contato
 permalink: /br/contato/
 ---
 
-:envelope: 51 chemin des Maillettes, 1290 Versoix, Switzerland
+:envelope: 51 chemin des Maillettes, 1290 Versoix, Suíça
 
 :telephone_receiver: +41 22 379 24 00
 
