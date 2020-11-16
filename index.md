@@ -5,7 +5,7 @@ layout: page
 {: style="text-align:center"}
 ![leonardo-dos-santos](images/profile.jpeg "Leonardo A. dos Santos")
 
-I am a PhD candidate at the Geneva Observatory, where I work with Prof. [David Ehrenreich](https://obswww.unige.ch/~ehrenrei/homepage/Welcome.html) and many other scientists. I am also a member of the [NCCR PlanetS](http://nccr-planets.ch) collaboration.
+I am a PhD candidate at the Geneva Observatory, where I work with [David Ehrenreich](https://obswww.unige.ch/~ehrenrei/homepage/Welcome.html) and many other scientists. I am also a member of the [NCCR PlanetS](http://nccr-planets.ch) collaboration.
 
 My main research topic is the detection and characterization of extra-solar planets, more specifically their upper atmospheres. I am also interested in solving problems related to the observation and description of stellar atmospheres and developing scientific software for the astronomical community. The main instruments I use in my research are high-resolution and/or space-based spectrographs.
 
@@ -27,11 +27,11 @@ You can also look me up on <a href="https://orcid.org/0000-0002-2248-3838" targe
 
 Occasionally I [write software](https://github.com/ladsantos) in Python and random scripts for astronomical research. Here are some that I think could be useful for other people:
 
-* [`radial`](https://github.com/ladsantos/radial): Pure Python code for working with radial velocities of stars with a  companion (checkout the tutorial notebooks [here](https://github.com/ladsantos/RV_PS2017)).
+* [`radial`](https://github.com/ladsantos/radial): Pure Python code for working with radial velocities of stars with a companion (checkout the tutorial notebooks [here](https://github.com/ladsantos/RV_PS2017)).
 
-* [`sunburn`](https://github.com/ladsantos/sunburn): Data analysis package of HST far-UV spectra. **Feature requests are very welcome!** (shoot me an email or [post an issue](https://github.com/ladsantos/sunburn/issues))
+* [`sunburn`](https://github.com/ladsantos/sunburn): Data analysis package of HST far-UV spectra.
 
-* [`onza`](https://github.com/ladsantos/onza): Transiting exospheres
+* [`onza`](https://github.com/ladsantos/onza): Exospheres in transmission spectroscopy.
 
 * [ESO unpack](https://github.com/ladsantos/ESO_unpack): Did you just download dozens of GBs of data from ESO's archive? This script can help you unpack the data.
 
