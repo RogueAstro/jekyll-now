@@ -2,6 +2,8 @@
 layout: blog_home
 ---
 
+[Subscribe to the newsletter](http://subscribe.ladsantos.org) to get an email notification whenever there is a new post.
+
 Recent posts
 ============
 
