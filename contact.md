@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-:envelope: 51 chemin des Maillettes, 1290 Versoix, Switzerland
+:envelope: Chemin Pegasi 51, 1290 Versoix, Switzerland
 
 :telephone_receiver: +41 22 379 24 00
 
