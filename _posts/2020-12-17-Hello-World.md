@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Hello, good old long-form blogging! 
 author: Leo dos Santos
 permalink: /blog/:year/:month/:day/:title:output_ext
