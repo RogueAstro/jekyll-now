@@ -3,9 +3,6 @@ layout: blog_home
 permalink: /blog/donate
 ---
 
-Donate
-======
-
 <script src="https://liberapay.com/ladsantos/widgets/button.js"></script>
 <noscript><a href="https://liberapay.com/ladsantos/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
 
