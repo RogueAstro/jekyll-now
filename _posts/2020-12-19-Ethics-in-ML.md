@@ -8,7 +8,7 @@ tag: 2020
 excerpt_separator: <!--more-->
 ---
 
-Recently I have been delving into machine learning for a few reasons, mostly out of curiosity and because I think it is an important skill for a scientist like me. At the same time, we are aware of many issues on how artificial intelligence algorithms are deployed, such as consumer exploitation and social discrimination. How do we deal with this conundrum?
+Recently I have been delving into machine learning for a few reasons, mostly out of curiosity and because I think it is an important skill for my career. At the same time, we are aware of many issues on how artificial intelligence algorithms are deployed, such as consumer exploitation and social discrimination. How do we deal with this conundrum?
 
 <!--more-->
 {:refdef: style="text-align: center;"}
