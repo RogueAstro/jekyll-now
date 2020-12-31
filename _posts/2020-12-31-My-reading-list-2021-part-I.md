@@ -33,11 +33,11 @@ Hope Jahren’s *Lab Girl* would probably be on my top-5 favorite books if I had
 
 ### April: *A World Without Email* by Cal Newport
 
-Cal Newport is another author that rapidly grew on me when I read his book *Deep Work*. His main line of writing is on the “self-help” section, containing treatises on how to be focused in a noisy world. It is partly because of his writing that I dumped my social media presence in favor of more meaningful connections. In this new book, Newport reviews the current evidence of how email and instant digital communication has negatively affected the lives of creative workers — including scientists. In the end, presumably, he discuss alternatives to this hyperactive communication tools.
+Cal Newport is another author that rapidly grew on me when I read his book *Deep Work*. His main line of writing is on the “self-help” section, containing treatises on how to be focused in a noisy world. It is partly because of his writing that I dumped my social media presence in favor of more meaningful connections. In this new book, Newport reviews the current evidence of how email and instant digital communication has negatively affected the lives of creative workers — including scientists. In the end, presumably, he discuss alternatives to these hyperactive communication tools.
 
 ### May: *The Disordered Cosmos* by Chanda Prescod-Weinstein
 
-As with many people, I came across Dr. Prescod-Weinsten’s writing through Twitter, where she leads an impressive effort of making science a more just place. In her first book, which also comes out in March 2021, Prescod-Weinsten shares her love and experiences with theoretical cosmology and particle physics; the author also exposes the open wounds of racial marginalization, sexism and the history of knowledge colonialism that plagues the field of physics. It goes without saying that I am also very excited for this one!
+As with many people, I came across Dr. Prescod-Weinsten’s writing through Twitter, where she leads an impressive effort of making science a more just place. In her first book, which also comes out in March 2021, Prescod-Weinsten shares her love and experiences with theoretical cosmology and particle physics; the author also exposes the open wounds of racial marginalization, sexism and the history of colonialism that plagues knowledge production in the field of physics. It goes without saying that I am also very excited for this one!
 
 ### June: *Open Veins of Latin America* by Eduardo Galeano
 
