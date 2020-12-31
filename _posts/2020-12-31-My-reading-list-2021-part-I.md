@@ -25,7 +25,7 @@ This is probably the reading I am most excited for! *Feminismos Plurais* is a co
 
 ### February: *Weapons of Math Destruction* by Cathy O’Neal
 
-I came across this book when I was reading the material for my post on [ethics of machine learning](2020/12/19/Ethics-in-ML.html). It exposes the biases involved in the era of Big Data and how they affect many of the algorithms that run our lives, in contrast with the utopian idea that machines and computers are not affected by the human conditions. I am also very excited for this one!
+I came across this book when I was reading the material for my post on [ethics of machine learning](/blog/2020/12/19/Ethics-in-ML.html). It exposes the biases involved in the era of Big Data and how they affect many of the algorithms that run our lives, in contrast with the utopian idea that machines and computers are not affected by the human conditions. I am also very excited for this one!
 
 ### March: *The Story of More* by Hope Jahren
 
