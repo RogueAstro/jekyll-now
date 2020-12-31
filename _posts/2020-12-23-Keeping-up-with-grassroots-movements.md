@@ -29,4 +29,4 @@ Going analog is hard. I could be sitting on my chair, retweeting posts from my s
 
 ----------------
 
-[^1]: Delia Dumitrica & Mylynn Felt, "Mediated grassroots collective action: negotiating barriers of digital activism," Information, Communication & Society 23 (May 2019): 1821-1837, [https://doi.org/10.1080/1369118X.2019.1618891]()
+[^1]: Delia Dumitrica & Mylynn Felt, "Mediated grassroots collective action: negotiating barriers of digital activism," Information, Communication & Society 23 (May 2019): 1821-1837, [https://doi.org/10.1080/1369118X.2019.1618891](https://doi.org/10.1080/1369118X.2019.1618891).

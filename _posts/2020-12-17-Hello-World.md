@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: Hello, good old long-form blogging! 
+title: Hello, good old long(ish)-form blogging! 
 author: Leo dos Santos
 permalink: /blog/:year/:month/:day/:title:output_ext
 tag: 2020

@@ -33,8 +33,8 @@ The implications of ML tech in our lives has seen a staggering increase in scrut
 
 [^1]: Do not use `supermongo`. I recommend an open-source alternative, such as [`matplotlib`](https://matplotlib.org).
 [^2]: [Wikipedia article on the Manhattan Project](https://en.wikipedia.org/wiki/Manhattan_Project).
-[^3]: Lo Piano, S. "Ethical principles in machine learning and artificial intelligence: cases from the field and possible ways forward," Nature Humanities and Social Sciences Communications 7, 9 (2020). [https://doi.org/10.1057/s41599-020-0501-9]()
+[^3]: Lo Piano, S. "Ethical principles in machine learning and artificial intelligence: cases from the field and possible ways forward," Nature Humanities and Social Sciences Communications 7, 9 (2020). [https://doi.org/10.1057/s41599-020-0501-9](https://doi.org/10.1057/s41599-020-0501-9)
 [^4]: O’Neil, C. "Weapons of math destruction: how big data increases inequality and threatens democracy," 1st edn. (2016). Crown, New York. ISBN: 0553418815.
 [^5]: De Sutter, P. "Automated decision-making processes: ensuring consumer protection, and free movement of goods and services." [https://www.europarl. europa.eu/meetdocs/2014_2019/plmrep/COMMITTEES/IMCO/DV/2020/ 01-22/Draft_OQ_Automated_decision-making_EN.pdf]()
-[^6]: Obermeyer, Z., Powers, B., Vogeli, C. & Mullainathan, S. "Dissecting racial bias in an algorithm used to manage the health of populations," Science 336, 447–453 (2019). [https://doi.org/10.1126/science.aax2342]()
-[^7]: Jobi, A., Ienca, M., Vayena, E. "Artificial intelligence: the global landscape of ethics guidelines," Nature Machine Intelligence 1:389–399 (2019). [https://doi.org/10.1038/s42256-019-0088-2]()
+[^6]: Obermeyer, Z., Powers, B., Vogeli, C. & Mullainathan, S. "Dissecting racial bias in an algorithm used to manage the health of populations," Science 336, 447–453 (2019). [https://doi.org/10.1126/science.aax2342](https://doi.org/10.1126/science.aax2342)
+[^7]: Jobi, A., Ienca, M., Vayena, E. "Artificial intelligence: the global landscape of ethics guidelines," Nature Machine Intelligence 1:389–399 (2019). [https://doi.org/10.1038/s42256-019-0088-2](https://doi.org/10.1038/s42256-019-0088-2)
