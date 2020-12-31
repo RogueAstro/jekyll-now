@@ -33,7 +33,7 @@ Hope Jahren’s *Lab Girl* would probably be on my top-5 favorite books if I had
 
 ### April: *A World Without Email* by Cal Newport
 
-Cal Newport is another author that rapidly grew on me when I read his book, *Deep Work*. His main line of writing is on the “self-help” section, containing treatises on how to be focused in a noisy world. It is partly because of his writing that I dumped my social media presence in favor of more meaningful connections. In this new book, Newport reviews the current evidence of how email and instant digital communication has negatively affected the lives of creative workers — including scientists. In the end, presumably, he discuss alternatives to this hyperactive communication tools.
+Cal Newport is another author that rapidly grew on me when I read his book *Deep Work*. His main line of writing is on the “self-help” section, containing treatises on how to be focused in a noisy world. It is partly because of his writing that I dumped my social media presence in favor of more meaningful connections. In this new book, Newport reviews the current evidence of how email and instant digital communication has negatively affected the lives of creative workers — including scientists. In the end, presumably, he discuss alternatives to this hyperactive communication tools.
 
 ### May: *The Disordered Cosmos* by Chanda Prescod-Weinstein
 
