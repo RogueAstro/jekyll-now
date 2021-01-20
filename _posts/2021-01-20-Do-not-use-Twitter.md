@@ -21,10 +21,9 @@ One of the most used arguments in favor or having a Twitter profile is that it p
 
 Those caveats notwithstanding, there are much more insidious setbacks to society in general when it comes to the power that social media like Twitter hold nowadays. The Black Brazilian philosopher Djamila Ribeiro, in particular, has raised a concern in the fact that Twitter thrives in racism and sexism to generate profit. An interview for Vogue Brazil \[[^1]\], she cites the doctoral thesis of a colleague, Luis Silvério, who found out that 81% of hate speech on Twitter is directed at Black women \[[^2]\]. And when their names are cited in a trending topic, the company earns profit from it, even when tweets are flooded by hate speech. In order to compensate for the damage, Dr. Ribeiro suggests that Twitter directs part of its profit to funds dedicated to combating racism and inequalities that the company benefits from.
 
-As a social media website, naturally Twitter stands as a platform for unobstructed communication. And this is especially important in giving marginalized people a place to speak up, given that we live in a world that prefers to keep them silent. Furthermore, we stand at an age where bite-sized information carries a lot of power \[[^3]\], so leveraging this power to do something good has its own place. However, does this benefit outweigh the harms of harvesting our attention, selling personal data, and profiting on hate speech?
+As a social media website, naturally Twitter stands as a platform for unobstructed communication. And this is especially important in giving marginalized people a place to speak up, given that we live in a world that prefers to keep them silent. Furthermore, we stand at an age where bite-sized information carries a lot of power \[[^3]\], so leveraging this power to do something good has its own place. But can a healthy and productive discussion really manifest within 280 characters and convoluted threads? In fact, I point you out again to Djamila Ribeiro, who coined the amusing term "three-line philosophers," and how we should not rely on them as a source of information.
 
-My take is: no. You should not use Twitter.
-
+Finally, we can put some thought into a concluding question: Do the very tenuous benefits of Twitter outweigh the harms of harvesting our attention, selling personal data, and profiting on hate speech? I do not think so. You should not use Twitter.
 
 ----------------
 
