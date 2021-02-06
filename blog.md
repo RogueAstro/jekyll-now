@@ -2,7 +2,7 @@
 layout: blog_home
 ---
 
-[Subscribe to the newsletter](http://subscribe.ladsantos.org) to get an email notification whenever there is a new post. Before you continue browsing, I recommend you read about [your privacy](privacy) here. If you like what you see here, please consider [donating](donate) to help me maintain the website.
+Before you continue browsing, I recommend you read about [your privacy](privacy) here.
 
 Recent posts
 ============
