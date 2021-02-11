@@ -25,15 +25,15 @@ You can also look me up on <a href="https://orcid.org/0000-0002-2248-3838" targe
 
 ---
 
-Occasionally I [write software](https://github.com/ladsantos) in Python and random scripts for astronomical research. Here are some that I think could be useful for other people:
+Occasionally I [write software](https://github.com/ladsantos) in Python and scripts for astronomical research. Here are some that I think could be useful for you:
 
-* [`radial`](https://github.com/ladsantos/radial): Pure Python code for working with radial velocities of stars with a companion (checkout the tutorial notebooks [here](https://github.com/ladsantos/RV_PS2017)).
+* [`p-winds`](https://p-winds.readthedocs.io/): Isothermal Parker wind models for upper atmospheres of planets. Feel free to [create a pull request](https://github.com/ladsantos/p-winds/pulls) or [submit issues](https://github.com/ladsantos/p-winds/issues) on GitHub!
 
 * [`sunburn`](https://github.com/ladsantos/sunburn): Data analysis package of HST far-UV spectra.
 
-* [`onza`](https://github.com/ladsantos/onza): Exospheres in transmission spectroscopy.
+* [`radial`](https://github.com/ladsantos/radial): Pure Python code for working with radial velocities of stars with a companion (checkout the tutorial notebooks [here](https://github.com/ladsantos/RV_PS2017)).
 
-* [ESO unpack](https://github.com/ladsantos/ESO_unpack): Did you just download dozens of GBs of data from ESO's archive? This script can help you unpack the data.
+* [`onza`](https://github.com/ladsantos/onza): Exospheres in transmission spectroscopy.
 
 ---
 
