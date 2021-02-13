@@ -28,13 +28,13 @@ Você também pode me encontrar no <a href="https://orcid.org/0000-0002-2248-383
 
 Ocasionalmente eu [desenvolvo *software*](https://github.com/ladsantos) em Python e *scripts* para pesquisa astronômica. Aqui vão alguns que eu acho que podem ser úteis para outras pessoas:
 
+* [`p-winds`](https://p-winds.readthedocs.io/): Modelos de vento Parker para atmosferas de exoplanetas. Fique à vontade para [criar um *pull request*](https://github.com/ladsantos/p-winds/pulls) ou [submeter *issues*](https://github.com/ladsantos/p-winds/issues) no GitHub!
+
 * [`radial`](https://github.com/ladsantos/radial): Código em puro Python para trabalhar com velocidades radiais de estrelas com um objeto em órbita (e tutoriais [aqui](https://github.com/ladsantos/RV_PS2017)).
 
 * [`sunburn`](https://github.com/ladsantos/sunburn): Pacote de análise de dados espectrais em ultravioleta com o *Hubble*.
 
 * [`onza`](https://github.com/ladsantos/onza): Exosferas em espectroscopia de transmissão.
-
-* [ESO unpack](https://github.com/ladsantos/ESO_unpack): Você acabou de baixar vários GBs de dados do *ESO archive*? Este *script* pode te ajudar a desempacotar os dados.
 
 ---
 
