@@ -7,7 +7,7 @@ layout: page
 
 I am a PhD candidate at the Geneva Observatory, where I work with [David Ehrenreich](https://obswww.unige.ch/~ehrenrei/homepage/Welcome.html) and many other scientists. I am also a member of the [NCCR PlanetS](http://nccr-planets.ch) collaboration. My pronouns are he/him/his.
 
-My main research topic is the detection and characterization of extra-solar planets, more specifically their upper atmospheres. I am also interested in solving problems related to the observation and description of stellar atmospheres and developing scientific software for the astronomical community. The main instruments I use in my research are high-resolution and/or space-based spectrographs. You can watch a [talk I gave at the 5th NUVA Workshop](https://jcuva.ucm.es/NUVA2020_Media/The_high_energy_environment_and_atmospheri_escape_of_small_exoplanets_dos_Santos.mp4) on my research topic.
+My main research topic is the detection and characterization of extra-solar planets, more specifically their upper atmospheres. I am also interested in solving problems related to the observation and description of stellar atmospheres and developing scientific software for the astronomical community. The main instruments I use in my research are high-resolution and/or space-based spectrographs. You can watch a [talk I gave at the 5th NUVA Workshop](https://exoplanet-talks.org/talk/261) on my research topic.
 
 ---
 
