@@ -38,12 +38,10 @@ Ocasionalmente eu [desenvolvo *software*](https://github.com/ladsantos) em Pytho
 
 ---
 
-Entre 2015 e 2017 eu fui autor dos blogs astronômicos [Astrobites](https://astrobites.org) e [Astropontos](https://astropontos.org). Aqui vão alguns dos meus posts favoritos:
+Materiais úteis para contabilidade de exoplanetas:
 
-* [*Adventures in watchmaking for cool stars*](https://astrobites.org/2017/07/03/adventures-in-watchmaking-for-cool-stars/)
+* Lista de exoplanetas cujas atmosferas foram estudadas em transmissão e publicados: [exoplanet_transmission_list.txt](https://gist.github.com/ladsantos/33188da3be28941a2224cd7780445ec1). Meu plano é tornar essa lista completa, então se você souber de algum exoplaneta que não está listado, deixe um comentário lá.
 
-* [*A neutron star in the Eye of Sauron?*](https://astrobites.org/2017/03/24/a-neutron-star-in-the-eye-of-sauron/)
+* [Arquivo incompleto de espectros de transmissão de exoplantas](https://stellarplanet.org/science/exoplanet-transmission-spectra/) (mantido por H. Wakeford)
 
-* [*Strength in numbers: a smarter way to find habitable worlds*](https://astrobites.org/2017/05/23/strength-in-numbers-a-smarter-way-to-find-habitable-worlds/) (também apareceu no [AAS NOVA](http://aasnova.org/2017/07/18/strength-in-numbers-a-smarter-way-to-find-habitable-worlds/))
-
-* [*The impact of the Physics GRE in astronomy graduate school admissions*](https://astrobites.org/2016/09/09/the-impact-of-the-physics-gre-in-astronomy-graduate-admissions/)
+* [Arquivo de Exoplantas da NASA](https://exoplanetarchive.ipac.caltech.edu)

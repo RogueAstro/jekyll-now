@@ -37,12 +37,10 @@ Occasionally I [write software](https://github.com/ladsantos) in Python and scri
 
 ---
 
-I wrote summaries of interesting astronomical articles for [Astrobites](https://astrobites.org) between 2015 and 2017. Here are some of my favorite posts:
+Some useful book-keeping resources for exoplanet science:
 
-* [Adventures in watchmaking for cool stars](https://astrobites.org/2017/07/03/adventures-in-watchmaking-for-cool-stars/)
+* List of exoplanets that have had their atmospheres probed in transmission and published: [exoplanet_transmission_list.txt](https://gist.github.com/ladsantos/33188da3be28941a2224cd7780445ec1). My plan is to make this an exhaustive list, so if you know of an exoplanet that is not listed in there, drop me a comment.
 
-* [A neutron star in the Eye of Sauron?](https://astrobites.org/2017/03/24/a-neutron-star-in-the-eye-of-sauron/)
+* [Non-exhaustive archive of exoplanet transmission spectra](https://stellarplanet.org/science/exoplanet-transmission-spectra/) (maintained by H. Wakeford)
 
-* [Strength in numbers: a smarter way to find habitable worlds](https://astrobites.org/2017/05/23/strength-in-numbers-a-smarter-way-to-find-habitable-worlds/) (also featured on [AAS NOVA](http://aasnova.org/2017/07/18/strength-in-numbers-a-smarter-way-to-find-habitable-worlds/))
-
-* [The impact of the Physics GRE in astronomy graduate school admissions](https://astrobites.org/2016/09/09/the-impact-of-the-physics-gre-in-astronomy-graduate-admissions/)
+* [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu)
