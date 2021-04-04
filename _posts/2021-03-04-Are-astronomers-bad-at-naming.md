@@ -41,7 +41,7 @@ So, you see, I don't think astronomers or the astronomical community are all bad
 
 [^4]: Vidal-Madjar, A. and Lecavelier des Etangs, A., “"Osiris"(HD209458b), an Evaporating Planet”, in Extrasolar Planets: Today and Tomorrow, 2004, vol. 321, p. 152.
 
-[^5]: Vidal-Madjar, A., “Detection of Oxygen and Carbon in the Hydrodynamically Escaping Atmosphere of the Extrasolar Planet HD 209458b”, The Astrophysical Journal, vol. 604, no. 1, pp. L69–L72, 2004. doi:10.1086/383347.
+[^5]: Vidal-Madjar, A., Désert, J.-M., Lecavelier des Etangs, A., et al. “Detection of Oxygen and Carbon in the Hydrodynamically Escaping Atmosphere of the Extrasolar Planet HD 209458b”, The Astrophysical Journal, vol. 604, no. 1, pp. L69–L72, 2004. doi:10.1086/383347.
 
 [^6]: Galarza, J. Y., Meléndez, J., and Cohen, J. G., “Serendipitous discovery of the faint solar twin Inti 1”, Astronomy and Astrophysics, vol. 589, 2016. doi:10.1051/0004-6361/201527477.
 
