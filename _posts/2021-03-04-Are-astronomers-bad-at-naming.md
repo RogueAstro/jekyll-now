@@ -45,4 +45,4 @@ So, you see, I don't think astronomers or the astronomical community are all bad
 
 [^6]: Galarza, J. Y., Meléndez, J., and Cohen, J. G., “Serendipitous discovery of the faint solar twin Inti 1”, Astronomy and Astrophysics, vol. 589, 2016. doi:10.1051/0004-6361/201527477.
 
-[^7]: Boyajian, T. S., “Planet Hunters IX. KIC 8462852 - where's the flux?”, Monthly Notices of the Royal Astronomical Society, vol. 457, no. 4, pp. 3988–4004, 2016. doi:10.1093/mnras/stw218.
+[^7]: Boyajian, T. S., LaCourse, D. M., Rappaport, S. A. et al. “Planet Hunters IX. KIC 8462852 - where's the flux?”, Monthly Notices of the Royal Astronomical Society, vol. 457, no. 4, pp. 3988–4004, 2016. doi:10.1093/mnras/stw218.
