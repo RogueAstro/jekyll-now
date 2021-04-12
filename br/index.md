@@ -8,7 +8,15 @@ permalink: /br/
 
 Eu sou um doutorando no Observatório de Genebra, onde eu trabalho com [David Ehrenreich](https://obswww.unige.ch/~ehrenrei/homepage/Welcome.html) e muitos outros cientistas. Eu também sou um membro da colaboração [NCCR PlanetS](http://nccr-planets.ch).
 
-Meu tópico de pesquisa principal é detecção e caracterização de planetas extra-solares, mais especificamente as suas atmosferas. Eu também sou interessado em resolver problemas relacionados à observação e descrição de atmosferas estelares, e o desenvolvimento de *software* para a comunidade astronômica. Os principais instrumentos que eu uso na minha pesquisa são espectrógrafos de alta resolução em telescópios espaciais e na Terra. Assista o [seminário que apresentei no *5th NUVA Workshop*](https://exoplanet-talks.org/talk/261) sobre o meu tópico de pesquisa.
+Meu tópico de pesquisa principal é detecção e caracterização de planetas extra-solares, mais especificamente as suas atmosferas. Eu também sou interessado em resolver problemas relacionados à observação e descrição de atmosferas estelares, e o desenvolvimento de *software* para a comunidade astronômica. Os principais instrumentos que eu uso na minha pesquisa são espectrógrafos de alta resolução em telescópios espaciais e na Terra.
+
+---
+
+Gravações disponíveis em público:
+
+* [*5th NUVA Workshop*, 27 outubro 2020, conferência virtual](https://exoplanet-talks.org/talk/261) (em inglês)
+* [*SAG21 Community Symposium*, 9 Março 2021, conferência virtual](https://www.youtube.com/watch?v=Tr0ZkuO1sn8) (em inglês)
+* [Canal da SAB, bate-papo *live*](https://youtu.be/Go74zYuRTLw)
 
 ---
 
