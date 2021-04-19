@@ -3,7 +3,7 @@ layout: page
 ---
 
 {: style="text-align:center"}
-![leonardo-dos-santos](images/profile.jpeg "Leonardo A. dos Santos")
+![leonardo-dos-santos](images/profile.png "Leonardo A. dos Santos")
 
 I am a PhD candidate at the Geneva Observatory, where I work with [David Ehrenreich](https://obswww.unige.ch/~ehrenrei/homepage/Welcome.html) and many other scientists. I am also a member of the [NCCR PlanetS](http://nccr-planets.ch) collaboration. In the Fall 2021 I will join the [Space Telescope Science Institute](https://www.stsci.edu) as an STScI Fellow. My pronouns are he/him/his.
 
