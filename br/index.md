@@ -4,7 +4,7 @@ permalink: /br/
 ---
 
 {: style="text-align:center"}
-![leonardo-dos-santos](../images/profile.jpeg "Leonardo A. dos Santos")
+![leonardo-dos-santos](../images/profile.png "Leonardo A. dos Santos")
 
 Eu sou um doutorando no Observatório de Genebra, onde eu trabalho com [David Ehrenreich](https://obswww.unige.ch/~ehrenrei/homepage/Welcome.html) e muitos outros cientistas. Eu também sou um membro da colaboração [NCCR PlanetS](http://nccr-planets.ch).
 
